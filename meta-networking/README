@@ -17,18 +17,18 @@ Dependencies
 
 This layer depends on:
 
-URI: git://github.com/openembedded/openembedded-core.git
+URI: https://github.com/openembedded/openembedded-core.git
 branch: zeus
 revision: HEAD
 
 For some recipes, the meta-oe layer is required:
 
-URI: git://github.com/openembedded/meta-openembedded.git
+URI: https://github.com/openembedded/meta-openembedded.git
 subdirectory: meta-oe
 branch: zeus
 revision: HEAD
 
-URI: git://github.com/openembedded/meta-openembedded.git
+URI: https://github.com/openembedded/meta-openembedded.git
 subdirectory: meta-python
 branch: zeus
 revision: HEAD

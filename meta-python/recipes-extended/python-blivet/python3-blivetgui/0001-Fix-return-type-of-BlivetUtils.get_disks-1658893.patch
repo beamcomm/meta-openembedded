@@ -6,7 +6,7 @@ Subject: [PATCH] Fix return type of BlivetUtils.get_disks (#1658893)
 This must be a list, not a generator, because we are iterating
 over it multiple times in some cases.
 
-Upstream-Status: Backport[git://github.com/rhinstaller/blivet-gui]
+Upstream-Status: Backport[https://github.com/rhinstaller/blivet-gui]
 
 Signed-off-by: Hongxu Jia <hongxu.jia@windriver.com>
 

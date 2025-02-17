@@ -1,10 +1,10 @@
 This layer depends on:
 
-URI: git://github.com/openembedded/oe-core.git
+URI: https://github.com/openembedded/oe-core.git
 branch: zeus
 revision: HEAD
 
-URI: git://github.com/openembedded/meta-oe.git
+URI: https://github.com/openembedded/meta-oe.git
 layers: meta-oe
 branch: zeus
 revision: HEAD
